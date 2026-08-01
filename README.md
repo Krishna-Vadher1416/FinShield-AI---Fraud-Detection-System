@@ -55,4 +55,4 @@ FinShield AI is an intelligent fraud detection system that uses Machine Learning
 
 ## 👨‍💻 Author
 
-Krishna
+Krishna Vadher
